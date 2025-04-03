@@ -1,6 +1,6 @@
 # 📄 Multi-PDF Summarizer
 
-A simple web application built using **Streamlit**and  **Python** to summarize the content of multiple PDF files. Upload PDFs, extract text, and get a summarized version of all their content.
+A simple web application built using **Streamlit** and  **Python** to summarize the content of multiple PDF files. Upload PDFs, extract text, and get a summarized version of all their content.
 
 ## Features
 
